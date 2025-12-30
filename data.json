@@ -1,7 +1,7 @@
 [
     {
-        "device_id": "device123",
-        "username": "user1",
+        "device_id": "cd5df8ccfbc6ea98",
+        "username": "user",
         "password": "pass123",
         "expirydate": "31-12-2025",
         "Allowoffline": true
